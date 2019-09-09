@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_nonmid2.nonmid2_user" name="sn_nonmid2.nonmid2_user">57667b1d773333004d4eb5b268106132</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 15:51:48</sys_created_on>
+        <sys_id>97667b1d773333004d4eb5b268106134</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>57667b1d773333004d4eb5b268106132</sys_name>
+        <sys_package display_value="nonmid2" source="sn_nonmid2">7156f71d773333004d4eb5b268106104</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="nonmid2">7156f71d773333004d4eb5b268106104</sys_scope>
+        <sys_update_name>sys_embedded_help_role_97667b1d773333004d4eb5b268106134</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 15:51:48</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
